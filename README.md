@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ahmet 👋
 
-<!--
-**ahmetsyzc/ahmetsyzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in C# and .NET development.
 
-Here are some ideas to get you started:
+I build projects to improve my backend development, database, and software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Tools
+
+- C# / .NET
+- ASP.NET Web Forms
+- Microsoft SQL Server
+- ADO.NET
+- JavaScript
+- HTML / CSS
+- Git & GitHub
+- Visual Studio
+
+## 🚀 Currently Working On
+
+### [AsyModbus](https://github.com/ahmetsyzc/AsyModbus)
+
+A web-based user management application built with C#, ASP.NET Web Forms, and SQL Server.
+
+I'm currently working on:
+- User authentication and authorization
+- Role-based user management
+- Stored procedure-based database operations
+- Session management
+- Application architecture
+
+## 📚 Currently Learning
+
+- Backend Development
+- ASP.NET & .NET
+- Database Design
+- Software Architecture
+- Object-Oriented Programming (OOP)
+
+## 📫 Connect With Me
+
+- LinkedIn: [Ahmet Sungur Yazıcı](https://www.linkedin.com/in/ahmet-sungur-yazici-11354529b)
